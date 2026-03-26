@@ -176,8 +176,6 @@ All agents default to `opencode/big-pickle` (free). You can override per-agent:
 | **Big Pickle**  | ✅ Tested (free)  |
 | **Claude Code** | ❌ Not compatible |
 
-> **Note**: This template is built specifically for OpenCode. If you're using Claude Code, see [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios).
-
 ---
 
 ## Credits
