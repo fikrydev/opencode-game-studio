@@ -29,11 +29,11 @@ Building a game solo with AI is powerful — but a single chat session has no st
 
 ## What's Included
 
-| Category | Count | Description |
-|----------|-------|-------------|
-| **Agents** | 48 | Specialized subagents across design, programming, art, audio, narrative, QA, and production |
-| **Skills** | 37 | Slash commands for common workflows (`/start`, `/sprint-plan`, `/code-review`, `/brainstorm`, etc.) |
-| **Rules** | 11 | Path-scoped coding standards |
+| Category   | Count | Description                                                                                         |
+| ---------- | ----- | --------------------------------------------------------------------------------------------------- |
+| **Agents** | 48    | Specialized subagents across design, programming, art, audio, narrative, QA, and production         |
+| **Skills** | 37    | Slash commands for common workflows (`/start`, `/sprint-plan`, `/code-review`, `/brainstorm`, etc.) |
+| **Rules**  | 11    | Path-scoped coding standards                                                                        |
 
 ---
 
@@ -76,6 +76,7 @@ Tier 3 — Specialists
 ```
 
 ### Engine Specialists
+
 - **Godot**: `godot-specialist`, `godot-gdscript-specialist`, `godot-shader-specialist`, `godot-gdextension-specialist`
 - **Unity**: `unity-specialist`, `unity-dots-specialist`, `unity-shader-specialist`, `unity-addressables-specialist`, `unity-ui-specialist`
 - **Unreal**: `unreal-specialist`, `ue-gas-specialist`, `ue-blueprint-specialist`, `ue-replication-specialist`, `ue-umg-specialist`
@@ -97,14 +98,14 @@ Tier 3 — Specialists
 
 Type `/` in OpenCode to access all skills:
 
-| Category | Skills |
-|----------|--------|
-| **Reviews** | `/design-review`, `/code-review`, `/balance-check`, `/asset-audit`, `/perf-profile`, `/tech-debt` |
-| **Production** | `/sprint-plan`, `/milestone-review`, `/estimate`, `/retrospective`, `/bug-report` |
-| **Project** | `/start`, `/project-stage-detect`, `/reverse-document`, `/gate-check`, `/map-systems` |
-| **Release** | `/release-checklist`, `/launch-checklist`, `/changelog`, `/patch-notes`, `/hotfix` |
-| **Creative** | `/brainstorm`, `/playtest-report`, `/prototype`, `/onboard`, `/localize` |
-| **Team** | `/team-combat`, `/team-narrative`, `/team-ui`, `/team-release`, `/team-polish` |
+| Category       | Skills                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| **Reviews**    | `/design-review`, `/code-review`, `/balance-check`, `/asset-audit`, `/perf-profile`, `/tech-debt` |
+| **Production** | `/sprint-plan`, `/milestone-review`, `/estimate`, `/retrospective`, `/bug-report`                 |
+| **Project**    | `/start`, `/project-stage-detect`, `/reverse-document`, `/gate-check`, `/map-systems`             |
+| **Release**    | `/release-checklist`, `/launch-checklist`, `/changelog`, `/patch-notes`, `/hotfix`                |
+| **Creative**   | `/brainstorm`, `/playtest-report`, `/prototype`, `/onboard`, `/localize`                          |
+| **Team**       | `/team-combat`, `/team-narrative`, `/team-ui`, `/team-release`, `/team-polish`                    |
 
 ---
 
@@ -169,10 +170,10 @@ All agents default to `opencode/big-pickle` (free). You can override per-agent:
 
 ## Compatibility
 
-| Platform | Status |
-|----------|--------|
-| **OpenCode** | ✅ Full support |
-| **Big Pickle** | ✅ Tested (free) |
+| Platform        | Status            |
+| --------------- | ----------------- |
+| **OpenCode**    | ✅ Full support   |
+| **Big Pickle**  | ✅ Tested (free)  |
 | **Claude Code** | ❌ Not compatible |
 
 > **Note**: This template is built specifically for OpenCode. If you're using Claude Code, see [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios).
@@ -195,6 +196,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Support
 
-- 💬 [Discord](https://opencode.ai/discord) — Get help with OpenCode
-- 🐛 [Issues](https://github.com/traft/opencode-game-studios/issues) — Report bugs
+- 💬 [Telegram](https://t.me/traftret) — Get help with OpenCode
+- 🐛 [Issues](https://github.com/traft/opencode-game-studio/issues) — Report bugs
 - ☕ [Ko-fi](https://ko-fi.com/traft) — Support development# opencode-game-studio
