@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anomalyco/opencode/main/.github/logo.svg" width="200" alt="OpenCode Game Studios">
+  <img src="https://i.postimg.cc/5NXzYL2m/opencode-game-logo.png" width="200" alt="OpenCode Game Studios">
   <h1 align="center">OpenCode Game Studios</h1>
   <p align="center">
     Turn OpenCode into a full game development studio<br>
@@ -184,7 +184,6 @@ All agents default to `opencode/big-pickle` (free). You can override per-agent:
 
 - **OpenCode** — The amazing open-source AI coding assistant
 - **Big Pickle** — Free model by [OpenCode Zen](https://opencode.ai/zen)
-- **Original Concept** — [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) by Donchitos
 
 ---
 
@@ -197,5 +196,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Support
 
 - 💬 [Telegram](https://t.me/traftret) — Get help with OpenCode
-- 🐛 [Issues](https://github.com/traft/opencode-game-studio/issues) — Report bugs
+- 🐛 [Issues](https://github.com/traftG/opencode-game-studio/issues) — Report bugs
 - ☕ [Ko-fi](https://ko-fi.com/traft) — Support development# opencode-game-studio
