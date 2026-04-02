@@ -150,20 +150,13 @@ All agents default to `opencode/big-pickle` (free). You can override per-agent:
   }
 }
 ```
-
----
-
-## Project Structure
-
+Also, edit `.opencode/agents` .md files:  
 ```
-.
-├── opencode.json                   # Agent configurations
-├── AGENTS.md                       # Agent roster & hierarchy
-├── OPENCODE.md                     # Documentation
-├── .opencode/
-│   ├── agents/                     # 48 agent definitions
-│   ├── skills/                     # 37 workflow skills
-│   └── rules/                      # Coding standards
+---
+description: "..."
+mode: ...
+model: opencode/gpt-5.1-codex
+---
 ```
 
 ---
@@ -182,6 +175,7 @@ All agents default to `opencode/big-pickle` (free). You can override per-agent:
 
 - **OpenCode** — The amazing open-source AI coding assistant
 - **Big Pickle** — Free model by [OpenCode Zen](https://opencode.ai/zen)
+- Big thanks to [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) for cool idea & reference for this repo.
 
 ---
 
