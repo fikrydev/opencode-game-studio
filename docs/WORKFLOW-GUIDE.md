@@ -3,7 +3,7 @@
 > **How to go from zero to a shipped game using the Agent Architecture.**
 >
 > This guide walks you through every phase of game development using the
-> 48-agent system, 37 slash commands, and automated hooks. It assumes you
+> 54-agent system, 37 slash commands, and automated hooks. It assumes you
 > have Opencode installed and are working from the project root.
 
 ---
