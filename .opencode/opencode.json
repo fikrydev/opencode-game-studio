@@ -269,7 +269,7 @@
       "mode": "all",
       "model": "opencode/big-pickle"
     },
-    "gml-specialist": {
+    "gamemaker-gml-specialist": {
       "description": "GML language specialist. Hands-on authority for writing, reviewing, and refactoring GML code: language features, style, patterns, memory management, and the full GML API surface.",
       "mode": "all",
       "model": "opencode/big-pickle"
